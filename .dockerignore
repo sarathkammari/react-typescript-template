@@ -1,0 +1,4 @@
+node_modules/
+.vsconde/
+.eslintrc.js
+.prettierrc.js
